@@ -1,1 +1,2 @@
-este archivo contiene cambios muy importantes del proyecto
+este archivo contiene cambios muy importantes del proyecto.
+
